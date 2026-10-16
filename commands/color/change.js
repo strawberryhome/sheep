@@ -72,7 +72,7 @@ function genComps(color, ucfg, a11y) {
 					type: 12,
 					items: [{
 						media: {
-							url: `https://sheep.strawberryhome.com/sheep/${color.toHex()}`
+							url: `https://sheep.strawberryhome.org/sheep/${color.toHex()}`
 						}
 					}]
 				},

@@ -40,7 +40,7 @@ const bot = new FrameClient({
 			var guilds = (await bot.shard.broadcastEval(cli => cli.guilds.cache.size)).reduce((prev, val) => prev + val, 0);
 			return `/help | in ${guilds} guilds!`;
 		},
-		"/help | https://sheep.strawberryhome.com"
+		"/help | https://sheep.strawberryhome.org"
 	]
 });
 

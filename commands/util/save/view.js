@@ -49,7 +49,7 @@ class Command extends SlashCommand {
 						{
 							type: 12,
 							items: [{
-								media: { url: `https://sheep.strawberryhome.com/sheep/${c.toHex()}` }
+								media: { url: `https://sheep.strawberryhome.org/sheep/${c.toHex()}` }
 							}]
 						}
 					]
@@ -68,7 +68,7 @@ class Command extends SlashCommand {
 				accessory: {
 					type: 11,
 					media: {
-						url: `https://sheep.strawberryhome.com/color/${cl.toHex()}?text=%20`
+						url: `https://sheep.strawberryhome.org/color/${cl.toHex()}?text=%20`
 					}
 				}
 			}

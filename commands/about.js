@@ -73,7 +73,7 @@ class Command extends SlashCommand {
 								type: 2,
 								style: 5,
 								label: "Website",
-								url: "https://sheep.strawberryhome.com/"
+								url: "https://sheep.strawberryhome.org/"
 							},
 							{
 								type: 2,
