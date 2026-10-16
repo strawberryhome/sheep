@@ -7,7 +7,7 @@ This fork is a quick and messy continuation of the original [sheep](https://gith
 Offered as is with no guarantees, no support.
 
 If you enjoy this project please donate to graysdawn:
-- [patreon](https://patreon.com/greysdawn)  
+- [patreon](https://https://www.patreon.com/cw/selenated)  
 - [ko-fi](https://ko-fi.com/greysdawn)
 
 ## Invite
