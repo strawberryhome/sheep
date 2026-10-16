@@ -2,7 +2,7 @@
 
 *A color changing bot for Discord*
 
-This fork is a quick and messy continuation of the original [sheep](https://github.com/greys-bots/sheep) bot by graysdawn.
+This fork is a quick and messy continuation of the original [sheep](https://github.com/greys-bots/sheep) bot by [selenated](https://github.com/selenated).
 
 Offered as is with no guarantees or support.
 

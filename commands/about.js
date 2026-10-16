@@ -40,7 +40,7 @@ class Command extends SlashCommand {
 							"I help people change their name color here on Discord!\n" +
 							"I'm currently selfhosted by the [strawberry home](<https://github.com/strawberryhome>) collective\n" +
 							"## Creators\n" +
-							"[greysdawn](https://github.com/greysdawn) | @greysdawn\n" +
+							"[selenated](https://github.com/selenated)\n" +
 							"## Stats\n" +
 							`**Guilds:** ${guilds} | **Users:** ${users}`
 					},
@@ -78,19 +78,13 @@ class Command extends SlashCommand {
 							{
 								type: 2,
 								style: 5,
-								label: "Github",
+								label: "Github Fork",
 								url: "https://github.com/strawberryhome/sheep"
 							},
 							{
 								type: 2,
 								style: 5,
-								label: "Patreon",
-								url: "https://patreon.com/greysdawn"
-							},
-							{
-								type: 2,
-								style: 5,
-								label: "Ko-Fi",
+								label: "selenated's Ko-Fi",
 								url: "https://ko-fi.com/greysdawn"
 							}
 						]
