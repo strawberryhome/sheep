@@ -4,7 +4,7 @@
 
 This fork is a quick and messy continuation of the original [sheep](https://github.com/greys-bots/sheep) bot by graysdawn.
 
-Offered as is with no guarantees, no support.
+Offered as is with no guarantees or support.
 
 If you enjoy this project please donate to graysdawn:
 - [patreon](https://https://www.patreon.com/cw/selenated)  
