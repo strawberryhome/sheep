@@ -38,7 +38,7 @@ class Command extends SlashCommand {
 						type: 12,
 						items: [{
 							media: {
-								url: `https://sheep.greysdawn.com/sheep/${color.toHex()}`
+								url: `https://sheep.strawberryhome.com/sheep/${color.toHex()}`
 							}
 						}]
 					}

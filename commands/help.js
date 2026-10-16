@@ -76,12 +76,12 @@ class Command extends SlashCommand {
 						{
 							type: 1,
 							components: [
-								{
-									type: 2,
-									style: 5,
-									label: 'Support Server',
-									url: 'https://discord.gg/EvDmXGt'
-								},
+								// {
+								// 	type: 2,
+								// 	style: 5,
+								// 	label: 'Support Server',
+								// 	url: 'https://discord.gg/EvDmXGt'
+								// },
 								{
 									type: 2,
 									style: 5,

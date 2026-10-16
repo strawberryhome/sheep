@@ -72,7 +72,7 @@ function genComps(color, ucfg, a11y) {
 					type: 12,
 					items: [{
 						media: {
-							url: `https://sheep.greysdawn.com/sheep/${color.toHex()}`
+							url: `https://sheep.strawberryhome.com/sheep/${color.toHex()}`
 						}
 					}]
 				},
@@ -110,7 +110,7 @@ class Command extends SlashCommand {
 				'[color] - Change to a specific color'
 			],
 			extra: "This command accepts hex codes and color names!\n" +
-			       "See [this](https://www.w3schools.com/colors/colors_names.asp) " +
+			       "See [this](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/named-color) " +
 			       "link for supported names",
 			v2: true
 		})
@@ -216,8 +216,8 @@ class Command extends SlashCommand {
 							return [
 								`Something went wrong! ERR: ${e.message}\n`,
 								`Try moving my highest role above any roles you're trying to color, then try again!\n`,
-								`If the error continues, please report this in `,
-								`my development server: https://discord.gg/EvDmXGt`
+								`If the error continues, please report this to amber:`,
+								`<@186476123071315970>`
 							].join("");
 						}
 						break;

@@ -69,7 +69,7 @@ class Command extends SlashCommand {
 					{
 						type: 12,
 						items: [{
-							media: {url: `https://sheep.greysdawn.com/sheep/${c3.toHex()}`}
+							media: {url: `https://sheep.strawberryhome.com/sheep/${c3.toHex()}`}
 						}]
 					}
 				]

@@ -38,6 +38,7 @@ class Command extends SlashCommand {
 						content:
 							"# Baa! I'm Sheep!\n" +
 							"I help people change their name color here on Discord!\n" +
+							"I'm currently selfhosted by the [strawberry home](<https://github.com/strawberryhome>) collective\n" +
 							"## Creators\n" +
 							"[greysdawn](https://github.com/greysdawn) | @greysdawn\n" +
 							"## Stats\n" +
@@ -56,29 +57,29 @@ class Command extends SlashCommand {
 							type: 2,
 							style: '5',
 							label: 'Invite',
-							url: "https://discordapp.com/api/oauth2/authorize?client_id=585271178180952064"
+							url: "https://discordapp.com/api/oauth2/authorize?client_id=1523439468122472509&permissions=268495936&scope=bot%20applications.commands"
 						}
 					},
 					{
 						type: 1,
 						components: [
-							{
-								type: 2,
-								style: 5,
-								label: "Support server",
-								url: "https://discord.gg/EvDmXGt"
-							},
+							// {
+							// 	type: 2,
+							// 	style: 5,
+							// 	label: "Support server",
+							// 	url: "https://discord.gg/EvDmXGt"
+							// },
 							{
 								type: 2,
 								style: 5,
 								label: "Website",
-								url: "https://sheep.greysdawn.com/"
+								url: "https://sheep.strawberryhome.com/"
 							},
 							{
 								type: 2,
 								style: 5,
 								label: "Github",
-								url: "https://github.com/greys-bots/sheep"
+								url: "https://github.com/strawberryhome/sheep"
 							},
 							{
 								type: 2,
